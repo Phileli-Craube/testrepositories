@@ -25,3 +25,6 @@ Testing
      - ./installation_solr ../../solr-8.0.tgz
      - service solr start
      - service solr status
+     -ls 
+     -la
+     -
